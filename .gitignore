@@ -14,3 +14,8 @@ venv.bak/
 *.swp
 *.swo
 *.log
+
+# Mac-specific setup files (don't sync to avoid conflicts)
+.bashrc
+.envrc
+.vscode/settings.json
