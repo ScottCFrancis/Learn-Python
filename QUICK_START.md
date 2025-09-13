@@ -7,7 +7,7 @@ This guide shows you how to set up your Learn-Python project on any other Mac in
 Copy and paste this single command into Terminal on any Mac:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/ScottCFrancis/Learn-Python/main/quick_setup.sh | bash
+curl -fsSL https://raw.githubusercontent.com/ScottCFrancis/Learn-Python/master/quick_setup.sh | bash
 ```
 
 That's it! This will:
@@ -31,7 +31,7 @@ mkdir -p ~/Development/Python/Learn-Python
 cd ~/Development/Python/Learn-Python
 
 # 2. Download and run bootstrap script
-curl -fsSL https://raw.githubusercontent.com/ScottCFrancis/Learn-Python/main/bootstrap_setup.sh | bash
+curl -fsSL https://raw.githubusercontent.com/ScottCFrancis/Learn-Python/master/bootstrap_setup.sh | bash
 ```
 
 ## 🎯 After Setup
@@ -94,8 +94,8 @@ chmod +x *.sh
 ## 📱 For Your Other Macs
 
 Just run the one-liner command on each Mac:
-- Mac #1: `curl -fsSL https://raw.githubusercontent.com/ScottCFrancis/Learn-Python/main/quick_setup.sh | bash`
-- Mac #2: `curl -fsSL https://raw.githubusercontent.com/ScottCFrancis/Learn-Python/main/quick_setup.sh | bash`
-- Mac #3: `curl -fsSL https://raw.githubusercontent.com/ScottCFrancis/Learn-Python/main/quick_setup.sh | bash`
+- Mac #1: `curl -fsSL https://raw.githubusercontent.com/ScottCFrancis/Learn-Python/master/quick_setup.sh | bash`
+- Mac #2: `curl -fsSL https://raw.githubusercontent.com/ScottCFrancis/Learn-Python/master/quick_setup.sh | bash`
+- Mac #3: `curl -fsSL https://raw.githubusercontent.com/ScottCFrancis/Learn-Python/master/quick_setup.sh | bash`
 
 Each Mac will have the exact same setup! 🎉

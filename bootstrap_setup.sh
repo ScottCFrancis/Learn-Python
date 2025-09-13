@@ -2,7 +2,7 @@
 
 # Bootstrap Setup Script for Learn-Python Project
 # This script downloads and runs the complete setup on any Mac
-# Usage: curl -fsSL https://raw.githubusercontent.com/ScottCFrancis/Learn-Python/main/bootstrap_setup.sh | bash
+# Usage: curl -fsSL https://raw.githubusercontent.com/ScottCFrancis/Learn-Python/master/bootstrap_setup.sh | bash
 
 set -e
 

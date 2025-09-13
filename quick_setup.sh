@@ -11,7 +11,7 @@ mkdir -p ~/Development/Python/Learn-Python
 cd ~/Development/Python/Learn-Python
 
 # Download and run bootstrap script
-curl -fsSL https://raw.githubusercontent.com/ScottCFrancis/Learn-Python/main/bootstrap_setup.sh | bash
+curl -fsSL https://raw.githubusercontent.com/ScottCFrancis/Learn-Python/master/bootstrap_setup.sh | bash
 
 echo ""
 echo "✅ Setup complete! Your project is ready at:"
